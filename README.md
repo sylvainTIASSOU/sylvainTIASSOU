@@ -29,7 +29,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sylvainTIASSOU&layout=compact&theme=radical)
 
 ### 🤝 Let's Connect
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?logo=vercel)](https://portfolio-sylvain-tiassou.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?logo=vercel)](https://sylvaintiassou.site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](#)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter)](#)
 [![Discord](https://img.shields.io/badge/Discord-DM-5865F2?logo=discord)](#)
